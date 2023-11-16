@@ -6,8 +6,6 @@
  *          4. npm init -y  初始化项目包文件
  *          5.tsc --init    生成tsconfig.json
  *          6.npm i @types/node -D  声明文件
- *          7 tsc index.ts  tsc -w  //tsc 转换为js， -w 监视，+转换js
- *          8 npm i @vue/cli -g  安装vue cli工具， 1.VUE create 命令行工具创建项目 2.VUE ui 可视化创建项目工具
  */
 // number = [NaN,Infinity,123,decimal,hex,binary,octal...全部以十进制显示的]
 let num = 123;

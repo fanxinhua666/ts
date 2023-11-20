@@ -5,6 +5,12 @@
  *          4. npm init -y  初始化项目包文件
  *          5.tsc --init    生成tsconfig.json
  *          6.npm i @types/node -D  声明文件
+ *          7 npm i @types/node -D nodejs的声明文件
+ *          // 声明文件 d.ts
+            // npm i --save-dev @types/express
+            // 手写 express 文件夹名称 typings 声明文件名称  为 express.d.ts
+            // declare module 'express';
+ * 
  */
 
     // number = [NaN,Infinity,123,decimal,hex,binary,octal...全部以十进制显示的]
